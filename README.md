@@ -1,83 +1,60 @@
-<h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
-<h3 align="center">Front-End Developer | Preparing for Fullstack and Mobile | React.js, React Native, Expo, Next.js | Systems Development Technician Student</h3>
+# Hi, I'm Gustavo Caldeira 👋
 
-- 🔭 I’m currently working on [easyDay](https://github.com/gustavocaldeira40/easyDay) and other projects. You can check out all my repositories on [GitHub](https://github.com/gustavocaldeira40).
+### Full Stack Developer | React · Next.js · Node.js · NestJS · TypeScript
 
-- 🌱 I’m currently learning **🚀 ReactJS ⚡ Angular 📱 Ionic 📲 React Native 🔠 Typescript 💻 C#**.
+I build end-to-end digital products — from Figma prototype to production deploy. 
+Comfortable across front-end, back-end, APIs, authentication, databases and infrastructure.
 
-- 👨‍💻 All of my projects are available at [https://github.com/gustavocaldeira40](https://github.com/gustavocaldeira40).
+- 💼 5+ years across front-end and full stack roles (JSMX, Orbits Technology, Startec, Vsi, Eduzz)
+- 🌎 Heading to Canada for an English immersion program — actively growing my network and open to opportunities there
+- 🛠 Currently building **Alpharm KIDS**, a gamified literacy platform (Next.js + NestJS)
+- 📫 gustavo.caldeira.7@outlook.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-caldeira40/) · [Portfolio](https://frontend-portfolio-ivory-one.vercel.app/) · [Full project history on GitLab](https://gitlab.com/gustavo.caldeira40)
 
-- 💬 Ask me about **ReactJS, React Native, Next.js, Expo, HTML, CSS, JavaScript, Typescript**.
+---
 
-- 📫 How to reach me: **gustavo.caldeira.7@outlook.com** or **guh.caldeira.7@outlook.com**.
+## 🛠 Stack
 
-- 📄 Know about my experiences [here on LinkedIn](https://www.linkedin.com/in/gustavo-henrique-a51889116/).
+**Front-end:** React · Next.js · TypeScript · Angular · Tailwind CSS · Shadcn/UI · Radix UI · TanStack Query/Router  
+**Back-end:** Node.js · NestJS · Fastify · Python · Go · PHP  
+**Data:** PostgreSQL · MongoDB · Drizzle ORM · RabbitMQ  
+**DevOps / Tools:** Docker · Git · GitHub · GitLab · CI/CD · Vercel · Swagger/OpenAPI · JWT
 
-- ⚡ Fun fact: **I'm a front-end developer, but music is also a big part of my life. As a musician, I always try to take music with me wherever I go, and I apply the creativity from music to my development projects. I believe programming and music have a lot in common – both require creativity, rhythm, and attention to detail!**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Featured Projects
+
+**[Seller Mecânica Industrial](https://sellermecanica.com.br/)**
+Full-stack institutional site delivered end-to-end for a real client — architecture, UI and deploy.
+`React 19` `TypeScript` `Vite` `Tailwind CSS` `TanStack Router`
+
+**[GDASH — Distributed Weather Platform](https://challange-weather-platform.vercel.app/)**
+Event-driven pipeline: Python collector → RabbitMQ → Go worker → NestJS API → React dashboard.
+`NestJS` `Python` `Go` `RabbitMQ` `MongoDB` · [Code](https://gitlab.com/gustavo.caldeira40/challange-weather-platform)
+
+**Tiny ERP + Dafiti Integration** — *Freelance*
+Automated a fully manual logistics workflow (order → invoice → shipping label), cutting hours of manual work and human error risk.
+`Node.js` `Fastify` `Angular` `PostgreSQL` `Docker`
+
+**[NLW Agents](https://gitlab.com/gustavo.caldeira40/nlw-agents-front-end)**
+AI-powered Q&A rooms with semantic search.
+`React 19` `Node.js` `Fastify`
+
+**More projects and full commit history →** [GitLab](https://gitlab.com/gustavo.caldeira40) · [Portfolio](https://frontend-portfolio-ivory-one.vercel.app/)
+
+---
+
 <p align="left">
-  <a href="https://linkedin.com/in/gustavo-henrique-a51889116" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-henrique-a51889116" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36" height="36"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" height="36"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/></a>
 </p>
 
 <p>
